@@ -1,3 +1,7 @@
+######################################################################
+### A lightweight browser with limited features written in python. ###
+###                       MadeBySaints 2025                        ###
+######################################################################
 import sys
 import json
 import logging
